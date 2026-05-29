@@ -1,6 +1,6 @@
 # Login Flutter
 
-![Vista Login](assets/imagenes/emulador.png)
+![Vista Login](imagenes/emulador.png)
 
 Este proyecto consiste en una interfaz de inicio de sesión desarrollada en Flutter utilizando Dart.
 
